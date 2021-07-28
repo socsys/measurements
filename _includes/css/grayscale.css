@@ -383,7 +383,6 @@ body {
     display: inline-block;
     *display: inline;
     zoom: 1;
-    background:red;
 }
 span {
     width: 100%;
