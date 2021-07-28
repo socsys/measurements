@@ -1,8 +1,8 @@
 # Site settings
-title: Network Performance Measurements Extension
+title: satPerf
 email: netsys.surrey@gmail.com
 url: https://github.com/socsys/slinky-test
-description: "The Chrome Browser extension is developed by University of Surrey as part of study to understand the performance of SpaceX's Starlink satellite network from users' persepctive."
+description: "It is a Chrome Browser extension developed by University of Surrey as part of study to understand the performance of SpaceX's Starlink satellite network from users' persepctive."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
