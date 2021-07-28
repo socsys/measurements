@@ -36,6 +36,10 @@ p {
     line-height: 1.5;
 }
 
+.col-lg-8.col-lg-offset-2 {
+    text-align: justify;
+}
+
 @media(min-width:767px) {
     p {
         margin: 0 0 35px;
@@ -214,7 +218,7 @@ a:focus {
     -moz-animation-timing-function: linear;
 }
 
-@-webkit-keyframes pulse {    
+@-webkit-keyframes pulse {
     0 {
         -webkit-transform: scale(1);
         transform: scale(1);
@@ -231,7 +235,7 @@ a:focus {
     }
 }
 
-@-moz-keyframes pulse {    
+@-moz-keyframes pulse {
     0 {
         -moz-transform: scale(1);
         transform: scale(1);
